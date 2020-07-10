@@ -32,7 +32,7 @@ Blibiotecas utilizadas
     <li> #include &lt;windows.h&gt; <br></li>
     <li> #include &lt;time.h&gt; <br></li>
   
-</ul>>
+</ul>
 
 Desenvolvi em C um algoritimo que manipula arquivos, um sistema CRUD de alunos.  
 
