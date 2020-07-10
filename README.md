@@ -5,8 +5,8 @@
 Used libraries
 <ul>
   <li>
-    #include <conio2.h> <br>
-    #include <stdio.h> <br>
+    #include <conio2.h> 
+    #include <stdio.h> 
     #include <stdlib.h> <br>
     #include <string.h> <br>
     #include <ctype.h> <br>
