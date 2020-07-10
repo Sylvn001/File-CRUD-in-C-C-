@@ -4,15 +4,14 @@
 
 Used libraries
 <ul>
-  <li>
-    #include &lt;conio2.h>&gt; <br>
-    #include &lt;stdio.h&gt; <br>
-    #include &lt;stdlib.h&gt; <br> 
-    #include &lt;string.h&gt; <br> 
-    #include &lt;ctype.h&gt; <br>
-    #include &lt;windows.h&gt; <br>
-    #include &lt;time.h&gt; <br>
-  </li>
+    <li> #include &lt;conio2.h>&gt; <br></li>
+    <li> #include &lt;stdio.h&gt; <br></li>
+    <li> #include &lt;stdlib.h&gt; <br> </li>
+    <li> #include &lt;string.h&gt; <br> </li>
+    <li> #include &lt;ctype.h&gt; <br></li>
+    <li> #include &lt;windows.h&gt; <br></li>
+    <li> #include &lt;time.h&gt; <br></li>
+  
 </ul>
 
 I developed in C an algorithm that manipulates files, a student CRUD system.
