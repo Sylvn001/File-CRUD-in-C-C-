@@ -5,13 +5,13 @@
 Used libraries
 <ul>
   <li>
-    #include &lt;conio2.h>&gt;
-    #include &lt;stdio.h&gt;
-    #include &lt;stdlib.h&gt;
-    #include &lt;string.h&gt;
-    #include &lt;ctype.h&gt;
-    #include &lt;windows.h&gt;
-    #include &lt;time.h&gt;
+    #include &lt;conio2.h>&gt; <br>
+    #include &lt;stdio.h&gt; <br>
+    #include &lt;stdlib.h&gt; <br> 
+    #include &lt;string.h&gt; <br> 
+    #include &lt;ctype.h&gt; <br>
+    #include &lt;windows.h&gt; <br>
+    #include &lt;time.h&gt; <br>
   </li>
 </ul>
 
@@ -26,13 +26,13 @@ Blibiotecas utilizadas
 
 <ul>
   <li>
-    #include &lt;conio2.h>&gt;
-    #include &lt;stdio.h&gt;
-    #include &lt;stdlib.h&gt;
-    #include &lt;string.h&gt;
-    #include &lt;ctype.h&gt;
-    #include &lt;windows.h&gt;
-    #include &lt;time.h&gt;
+    #include &lt;conio2.h>&gt; <br>
+    #include &lt;stdio.h&gt; <br> 
+    #include &lt;stdlib.h&gt; <br>
+    #include &lt;string.h&gt; <br>
+    #include &lt;ctype.h&gt; <br> 
+    #include &lt;windows.h&gt; <br>
+    #include &lt;time.h&gt; <br>
   </li>
 </ul>
 
