@@ -5,13 +5,13 @@
 Used libraries
 <ul>
   <li>
-    #include <conio2.h> 
-    #include <stdio.h> 
-    #include <stdlib.h> <br>
-    #include <string.h> <br>
-    #include <ctype.h> <br>
-    #include <windows.h> <br>
-    #include <time.h> <br>
+    #include &lt;conio2.h>&gt;
+    #include &lt;stdio.h&gt;
+    #include &lt;stdlib.h&gt;
+    #include &lt;string.h&gt;
+    #include &lt;ctype.h&gt;
+    #include &lt;windows.h&gt;
+    #include &lt;time.h&gt;
   </li>
 </ul>
 
@@ -24,13 +24,17 @@ The objective is to work with a logic capable of manipulating the data according
 
 Blibiotecas utilizadas
 
-#include <conio2.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
-#include <windows.h>
-#include <time.h>
+<ul>
+  <li>
+    #include &lt;conio2.h>&gt;
+    #include &lt;stdio.h&gt;
+    #include &lt;stdlib.h&gt;
+    #include &lt;string.h&gt;
+    #include &lt;ctype.h&gt;
+    #include &lt;windows.h&gt;
+    #include &lt;time.h&gt;
+  </li>
+</ul>
 
 Desenvolvi em C um algoritimo que manipula arquivos, um sistema CRUD de alunos.  
 
