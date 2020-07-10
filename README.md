@@ -3,14 +3,17 @@
 ### ENG{
 
 Used libraries
-
-#include <conio2.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
-#include <windows.h>
-#include <time.h>
+<ul>
+  <li>
+    #include <conio2.h> <br>
+    #include <stdio.h> <br>
+    #include <stdlib.h> <br>
+    #include <string.h> <br>
+    #include <ctype.h> <br>
+    #include <windows.h> <br>
+    #include <time.h> <br>
+  </li>
+</ul>
 
 I developed in C an algorithm that manipulates files, a student CRUD system.
 
